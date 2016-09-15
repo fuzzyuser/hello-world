@@ -1,4 +1,4 @@
 void main()
 {
- printf("Hello world!\n");
+ printf("Hello World!\nthis is v2 hello\n");
 }
